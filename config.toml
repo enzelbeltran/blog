@@ -1,9 +1,9 @@
 baseurl = "https://enzelbeltran.github.io/"
 languageCode = "en-us"
-title = "Blackburn Theme Demo"
+title = "enzelbeltran.github.io"
 theme = "blackburn"
-author = "Yoshiharu Yamashita"
-copyright = "&copy; 2016. All rights reserved."
+author = "Enzel Beltran"
+copyright = "&copy; 2018. All rights reserved."
 canonifyurls = true
 paginate = 10
 
@@ -13,8 +13,8 @@ paginate = 10
 
 [params]
   # Shown in the home page
-  subtitle = "A Hugo Theme"
-  brand = "Blackburn"
+  subtitle = "start somewhere"
+  brand = "hey!"
   googleAnalytics = "Your Google Analytics tracking ID"
   disqus = "Your Disqus shortname"
   # CSS name for highlight.js
@@ -53,6 +53,6 @@ paginate = 10
   twitter = "*"
   facebook = "*"
   instagram = "*"
-  github = "yoshiharuyamashita"
+  github = "enzelbeltran"
   stackoverflow = "*"
   linkedin = "*"
