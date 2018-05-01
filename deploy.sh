@@ -3,10 +3,11 @@
 echo -e "\033[0;32mDeploying updates to Github...\033[0m"
 
 # Build the project.
-hugo
+hugo -t blackburn
+#cd public
 
 # Add changes to git.
-git add -A
+git add .
 
 # Commit changes.
 msg="rebuilding site `date`"
