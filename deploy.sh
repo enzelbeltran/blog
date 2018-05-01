@@ -16,5 +16,5 @@ fi
 git commit -m "$msg"
 
 # Push source and build repos.
-git push origin public
+git push origin master -f
 git subtree push --prefix=public git@github.com:enzelbeltran/enzelbeltran.github.io.git public
